@@ -1,1 +1,3 @@
-# quotidien
+# maven-project
+
+Simple Maven Project
